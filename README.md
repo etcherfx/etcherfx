@@ -1,25 +1,76 @@
-### Hi there👋
+<h1 align="center">
+  <img src="projectInfo/banner.png" alt="EtcherFX Banner" width="850">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etcherfx&label=Profile%20views&color=0e75b6&style=flat" alt="etcherfx" /> </p>
+<div align="center">
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=570445936954834944)
+**👋 Hey there, I'm EtcherFX!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@etcherfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@etcherfx" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<a href="https://github.com/etcherfx">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etcherfx&theme=dark" onclick="location.href='https://github.com/etcherfx';"/></p>
-</a>
+## 🛠️ Tech Stack & Tools
 
-<a href="https://skyline.github.com/etcherfx/2023">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=etcherfx&show_icons=true&theme=dark&locale=en" onclick="location.href='https://skyline.github.com/etcherfx/2023';"/></p>
-</a>
+<div align="center">
 
-<a href="https://github.com/etcherfx?tab=repositories">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etcherfx&show_icons=true&locale=en&theme=dark&layout=compact" onclick="location.href='https://github.com/etcherfx?tab=repositories';"/></p>
-</a>
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🔧 Technologies & Frameworks
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎨 Design Tools
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@etcherfx)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etcherfx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etcherfx&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=etcherfx&theme=tokyonight" alt="etcherfx" />
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=etcherfx&theme=tokyo-night&hide_border=true" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=etcherfx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="etcherfx" />
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=etcherfx&label=Profile%20views&color=0891b2&style=flat)
+
+**Thanks for visiting my profile! Have a great day! 🚀**
+
+</div>
