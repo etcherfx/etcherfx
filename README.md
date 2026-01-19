@@ -63,7 +63,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=etcherfx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="etcherfx" />
+  <img src="https://ghtrophies.etcherfx.dev/?username=etcherfx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="etcherfx" />
 </div>
 
 ---
